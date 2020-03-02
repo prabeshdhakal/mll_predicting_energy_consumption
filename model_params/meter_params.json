@@ -1,0 +1,6 @@
+{
+    "meter_0": {"iterations": 400, "depth": 7, "learning_rate": 0.05, "l2_leaf_reg": 6},
+    "meter_1": {"iterations": 500, "depth": 8, "learning_rate": 0.05, "l2_leaf_reg": 6}, 
+    "meter_2": {"iterations": 500, "depth": 8, "learning_rate": 0.05, "l2_leaf_reg": 6}, 
+    "meter_3": {"iterations": 1000, "depth": 8, "learning_rate": 0.05, "l2_leaf_reg": 6}
+}

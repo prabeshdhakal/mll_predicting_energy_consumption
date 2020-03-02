@@ -4,4 +4,5 @@ This is the code repository for the Machine Learning Lab project for MSc. Manage
 
 
 
-To-Do: The code has to be refactored to fit the folder structure here.
+**To-Do:** 
+[] The code has to be refactored to fit the folder structure here.
